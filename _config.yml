@@ -1,6 +1,6 @@
 # Site settings
-title: "Gean Ramos"
-description: "Theme Minimalista"
+title: Gean Ramos
+description: Minimalista e o segredo!
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,8 +9,8 @@ username: Gean Ramos
 user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
 user_title: Software Engineer
 email: geancr10@gmail.com
- twitter_username: geanramos
- github_username:  geanramos
- gplus_username:  geanramos
+# twitter_username: geanramos
+# github_username:  geanramos
+# gplus_username:  geanramos
 
 exclude: ['package.json', 'src' , 'node_modules']
